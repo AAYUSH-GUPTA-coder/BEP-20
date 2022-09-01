@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# BEP-20
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+###Contract Address: 0x4003687F4918cB523c86631AfA3a8a35f9670B9C
+###✨✨ [BscScan Link](https://testnet.bscscan.com/address/0x4003687F4918cB523c86631AfA3a8a35f9670B9C) ✨✨
 
-Try running some of the following tasks:
+Created My own token 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+AayushToken (My own Token) is more than a simple ERC-20 Token, It is BEP20 token on Binance Chain. With Features like
+- Mintable
+- Pausable 
